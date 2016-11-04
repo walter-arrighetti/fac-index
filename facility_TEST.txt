@@ -1,0 +1,1336 @@
+	<----------------------------------------------------------->
+	          fac-index: Disk Index quick report sheet           
+	<----------------------------------------------------------->
+	            Volume full Path:   /san/fs01
+	         TDI Facility/Tape #:   TEST-VOLUME
+	        Used Filesystem Size:   615.21GiB
+	      Filesystem Cardinality:   38925 files, 1101 folders
+
+	         Index creation date:   Fri, 04 Nov 2016, 01:55
+	      Facility name/location:   ColorScience Lab
+	         Host creating index:   cslabvmtest04
+	         User creating index:   walter-arrighetti
+	<----------------------------------------------------------->
+
+  [73.57GiB]  ALEXA_ARRIRAW   (10053 files, 168 dirs)
+           |   [60.1MiB]  2880x1620   (9 files, 0 dirs)
+           |           | SEQ 60.1MiB  A233C012_111110_R1TV.{%07}.ari   [1668509-1671213], miss=2696
+           |           |           \----->
+           |   [4.19GiB]  3Dtest_montarsi__R001R1LZ   (643 files, 8 dirs)
+           |           |  [333.9MiB]  001-C001L   (50 files, 0 dirs)
+           |           |           |SEQ 333.9MiB  001-C001L.{%07}.ari   [36090-36139]
+           |           |           |           \----->
+           |           |  [333.9MiB]  001-C001R   (50 files, 0 dirs)
+           |           |           |SEQ 333.9MiB  001-C001R.{%07}.ari   [36090-36139]
+           |           |           |           \----->
+           |           |  [888.2MiB]  001-C002L   (133 files, 0 dirs)
+           |           |           |SEQ 888.2MiB  001-C002L.{%07}.ari   [62240-64951], miss=2579
+           |           |           |           \----->
+           |           |  [888.2MiB]  001-C002R   (133 files, 0 dirs)
+           |           |           |SEQ 888.2MiB  001-C002R.{%07}.ari   [62240-64951], miss=2579
+           |           |           |           \----->
+           |           |  [460.8MiB]  001-C004L   (69 files, 0 dirs)
+           |           |           |SEQ 460.8MiB  001-C004L.{%07}.ari   [68030-68098]
+           |           |           |           \----->
+           |           |  [454.1MiB]  001-C004R   (68 files, 0 dirs)
+           |           |           |SEQ 454.1MiB  001-C004R.{%07}.ari   [68030-68097]
+           |           |           |           \----->
+           |           |  [467.5MiB]  001-C015L   (70 files, 0 dirs)
+           |           |           |SEQ 467.5MiB  001-C015L.{%07}.ari   [196290-196359]
+           |           |           |           \----->
+           |           |  [467.5MiB]  001-C015R   (70 files, 0 dirs)
+           |           |           |SEQ 467.5MiB  001-C015R.{%07}.ari   [196290-196359]
+           |           |           |           \----->
+           |           |           \----->
+           |  [12.31GiB]  3Dtest_testLTO   (1888 files, 7 dirs)
+           |           |   [4.45GiB]  A001R38H   (683 files, 1 dirs)
+           |           |           |   [4.45GiB]  A001C004_110607_R38H   (683 files, 0 dirs)
+           |           |           |           | SEQ 4.45GiB  A001C004_110607_R38H.{%07}.ari   [185844-186526]
+           |           |           |           |           \----->
+           |           |           |           \----->
+           |           |   [3.40GiB]  A164L35X   (522 files, 2 dirs)
+           |           |           |   [1.70GiB]  A164C003_110831_L35X   (261 files, 0 dirs)
+           |           |           |           | SEQ 1.70GiB  A164C003_110831_L35X.{%07}.ari   [1000390-1000650]
+           |           |           |           |           \----->
+           |           |           |   [1.70GiB]  A164C003_110831_R35X   (261 files, 0 dirs)
+           |           |           |           | SEQ 1.70GiB  A164C003_110831_R35X.{%07}.ari   [1000390-1000650]
+           |           |           |           |           \----->
+           |           |           |           \----->
+           |           |   [4.45GiB]  B001R38H   (683 files, 1 dirs)
+           |           |           |   [4.45GiB]  B001C004_110607_R38H   (683 files, 0 dirs)
+           |           |           |           | SEQ 4.45GiB  B001C004_110607_R38H.{%07}.ari   [185844-186526]
+           |           |           |           |           \----->
+           |           |           |           \----->
+           |           |           \----->
+           |  [953.5MiB]  A001C028_120216_R1LZ   (141 files, 3 dirs)
+           |           |  [emptyDIR]  dir
+           |           |  [emptyDIR]  dop
+           |           |   [25.2MiB]  edit   (1 files, 0 dirs)
+           |           |           |     25.2MiB  A001C028_120216_R1LZ_edit.mxf
+           |           |           |           \----->
+           |           |SEQ 928.3MiB  A001C028_120216_R1LZ.{%07}.ari   [18663-18801]
+           |           |         65B  A001C028_120216_R1LZ_md5.txt
+           |           |           \----->
+           |   [1.56GiB]  A001R33U   (239 files, 1 dirs)
+           |           |   [1.56GiB]  A001C007_111005_R33U   (239 files, 0 dirs)
+           |           |           | SEQ 1.56GiB  A001C007_111005_R33U{%07}.ari   [1463342-1463580]
+           |           |           |           \----->
+           |           |           \----->
+           |   [1.75GiB]  A002R33U   (269 files, 1 dirs)
+           |           |   [1.75GiB]  A002C001_111005_R33U   (269 files, 0 dirs)
+           |           |           | SEQ 1.75GiB  A002C001_111005_R33U{%07}.ari   [1632432-1632700]
+           |           |           |           \----->
+           |           |           \----->
+           |   [3.68GiB]  A009C005_121210_R0VJ   (423 files, 2 dirs)
+           |           |  [emptyDIR]  bd
+           |           |  [emptyDIR]  BD aop
+           |           | SEQ 3.68GiB  A009C005_121210_R0VJ.{%07}.ari   [6911-7333]
+           |           |           \----->
+           |   [1.80GiB]  ALEXA65 original camera footage   (70 files, 13 dirs)
+           |           |  [290.9MiB]  Acadamy_LogC_500ASA_5600K_A65   (10 files, 1 dirs)
+           |           |           |  [290.9MiB]  6560x3100   (10 files, 0 dirs)
+           |           |           |           |SEQ 290.9MiB  Acadamy_LogC_500ASA_5600K_A65.{%02}.ari   [0-9]
+           |           |           |           |           \----->
+           |           |           |           \----->
+           |           |  [290.9MiB]  Acadamy_Outside_face_in_focus_LogC_200ASA_5600K_A65   (10 files, 1 dirs)
+           |           |           |  [290.9MiB]  6560x3100   (10 files, 0 dirs)
+           |           |           |           |SEQ 290.9MiB  Acadamy_Outside_face_in_focus_LogC_200ASA_5600K_A65.{%02}.ari   [0-9]
+           |           |           |           |           \----->
+           |           |           |           \----->
+           |           |  [389.0MiB]  Colorchecker_4K_LogC_800ASA_3200K_A65   (20 files, 2 dirs)
+           |           |           |  [178.0MiB]  4320x2880   (10 files, 0 dirs)
+           |           |           |           |SEQ 178.0MiB  Colorchecker_4K_LogC_800ASA_3200K_A65.{%02}.ari   [0-9]
+           |           |           |           |           \----->
+           |           |           |  [211.0MiB]  5120x2880   (10 files, 0 dirs)
+           |           |           |           |SEQ 211.0MiB  Colorchecker_5K_LogC_800ASA_3200K_A65.{%02}.ari   [0-9]
+           |           |           |           |           \----->
+           |           |           |           \----->
+           |           |  [290.9MiB]  Colorchecker_OpenGate_LogC_800ASA_3200K_A65   (10 files, 1 dirs)
+           |           |           |  [290.9MiB]  6560x3100   (10 files, 0 dirs)
+           |           |           |           |SEQ 290.9MiB  Colorchecker_OpenGate_LogC_800ASA_3200K_A65.{%02}.ari   [0-9]
+           |           |           |           |           \----->
+           |           |           |           \----->
+           |           |  [290.9MiB]  Rental_Sharpness_Chart_LogC_400ASA_5600K_A65   (10 files, 1 dirs)
+           |           |           |  [290.9MiB]  6560x3100   (10 files, 0 dirs)
+           |           |           |           |SEQ 290.9MiB  Rental_Sharpness_Chart_LogC_400ASA_5600K_A65.{%02}.ari   [0-9]
+           |           |           |           |           \----->
+           |           |           |           \----->
+           |           |  [290.9MiB]  Wood_LogC_400ASA_5600K_A65   (10 files, 1 dirs)
+           |           |           |  [290.9MiB]  6560x3100   (10 files, 0 dirs)
+           |           |           |           |SEQ 290.9MiB  Wood_LogC_400ASA_5600K_A65.{%02}.ari   [0-9]
+           |           |           |           |           \----->
+           |           |           |           \----->
+           |           |           \----->
+           |   [36.5MiB]  alexa_lut   (3 files, 0 dirs)
+           |           |     12.2MiB  cube_grd01_4DD2AC8C001CE9.0025.dpx
+           |           |     12.2MiB  cube_grd02_4DD2AC8C001CEE.0025.dpx
+           |           |     12.2MiB  cube_grd03_4DD2AC8C001CF3.25.dpx
+           |           |           \----->
+           |   [13.4MiB]  ARRIRAW_v3__SUP11   (2 files, 0 dirs)
+           |           | SEQ 13.4MiB  T001C001_150819_R0VJ.{%07}.ari   [111466-111467]
+           |           |           \----->
+           |  [20.46GiB]  ARRIRAWv4_4.3_prova_roma   (2235 files, 10 dirs)
+           |           |  [16.68GiB]  01-8_A001   (1919 files, 0 dirs)
+           |           |           |SEQ 16.68GiB  01-8_A001.{%07}.ari   [402464-404382]
+           |           |           |           \----->
+           |           |   [3.06GiB]  test   (231 files, 3 dirs)
+           |           |           |   [1.96GiB]  001   (225 files, 1 dirs)
+           |           |           |           |   [1.96GiB]  001_0071844_AUTO   (225 files, 0 dirs)
+           |           |           |           |           | SEQ 1.96GiB  A001_C001_270712.{%07}.ari   [71844-72068]
+           |           |           |           |           |           \----->
+           |           |           |           |           \----->
+           |           |           |   [27.4MiB]  A005R35K   (4 files, 0 dirs)
+           |           |           |           |     27.3MiB  A005C001_120528_R35K.mov
+           |           |           |           |        361B  A005C001_120528_R35K.xml
+           |           |           |           |         57B  A005C001_120528_R35K_md5.txt
+           |           |           |           |       1973B  A005C001_120528_R35K_METADATI.csv
+           |           |           |           |           \----->
+           |           |           |     1.08GiB  B082C004_111027_R29I.mov
+           |           |           |        555B  B082C004_111027_R29I.xml
+           |           |           |           \----->
+           |           |    [6.6MiB]  transcoding_settings_ARC   (6 files, 0 dirs)
+           |           |           |  SEQ 6.6MiB  {%01}.png   [1-6]
+           |           |           |           \----->
+           |           |           \----->
+           |   [1.53GiB]  B022C001_20120903   (90 files, 1 dirs)
+           |           |  [779.2MiB]  Avid   (2 files, 0 dirs)
+           |           |           |    779.2MiB  B022C001_20120903_Avid.mxf
+           |           |           |       1982B  Resolve.lnk
+           |           |           |           \----->
+           |           |SEQ 783.4MiB  B022C001_20120903.{%07}.ari   [1551879-1556213], miss=4247
+           |           |           \----->
+           |   [5.55GiB]  Color_v4   (839 files, 6 dirs)
+           |           |   [4.83GiB]  36-10.11.11   (741 files, 3 dirs)
+           |           |           |   [4.83GiB]  A233R1TV   (741 files, 2 dirs)
+           |           |           |           |  [240.4MiB]  A233C002_111110_R1TV   (36 files, 0 dirs)
+           |           |           |           |           |SEQ 240.4MiB  A233C002_111110_R1TV.{%07}.ari   [1569330-1569365]
+           |           |           |           |           |           \----->
+           |           |           |           |   [4.60GiB]  A233C012_111110_R1TV   (705 files, 0 dirs)
+           |           |           |           |           | SEQ 4.60GiB  A233C012_111110_R1TV.{%07}.ari   [1668509-1671213], miss=2000
+           |           |           |           |           |           \----->
+           |           |           |           |           \----->
+           |           |           |           \----->
+           |           |  [732.7MiB]  A135R1TV   (98 files, 1 dirs)
+           |           |           |  [647.8MiB]  A135C001_111024_R1TV   (97 files, 0 dirs)
+           |           |           |           |SEQ 647.8MiB  A135C001_111024_R1TV.{%07}.ari   [849607-849703]
+           |           |           |           |           \----->
+           |           |           |     84.9MiB  A135C001_111024_R1TV.mov
+           |           |           |           \----->
+           |           |           \----->
+           |  [11.80GiB]  first_tests__A005R21J   (1810 files, 6 dirs)
+           |           |   [3.23GiB]  3-C003A   (496 files, 0 dirs)
+           |           |           |        244B  3-C003A.#######.ari.metadata
+           |           |           | SEQ 3.23GiB  3-C003A.{%07}.ari   [271335-273349], miss=1520
+           |           |           |           \----->
+           |           |   [1.81GiB]  3-C005A   (278 files, 0 dirs)
+           |           |           | SEQ 1.81GiB  3-C005A.{%07}.ari   [338399-338676]
+           |           |           |           \----->
+           |           |   [1.67GiB]  3-C006A   (256 files, 0 dirs)
+           |           |           | SEQ 1.67GiB  3-C006A.{%07}.ari   [345623-345878]
+           |           |           |           \----->
+           |           |  [961.6MiB]  3-C007A   (144 files, 0 dirs)
+           |           |           |SEQ 961.6MiB  3-C007A.{%07}.ari   [349300-349443]
+           |           |           |           \----->
+           |           |   [1.64GiB]  3-C009A   (252 files, 0 dirs)
+           |           |           | SEQ 1.64GiB  3-C009A.{%07}.ari   [351342-351593]
+           |           |           |           \----->
+           |           |   [2.50GiB]  3-C011A   (384 files, 0 dirs)
+           |           |           | SEQ 2.50GiB  3-C011A.{%07}.ari   [354194-354577]
+           |           |           |           \----->
+           |           |           \----->
+           |        292B  #.dpx.reel
+           | SEQ 27.0MiB  {%04}.dpx   [0-1000], miss=998
+           | SEQ 13.4MiB  3-C004A.{%07}.ari   [310133-311330], miss=1196
+           | SEQ 13.4MiB  3-C008A.{%07}.ari   [350184-350472], miss=287
+           | SEQ 13.4MiB  3-C010A.{%07}.ari   [353176-353455], miss=278
+           |    177.0kiB  ARRIRAW_Clipster_transcode.cp
+           |     11.0kiB  ARRIRAW_Clipster_transcode.png
+           |           \----->
+  [10.56GiB]  ALEXA_video   (44 files, 11 dirs)
+           |  [675.4MiB]  A001R33U   (2 files, 0 dirs)
+           |           |    675.4MiB  A001C007_111005_R33U.mov
+           |           |     31.0kiB  A001R33U_FCP.xml
+           |           |           \----->
+           |  [953.1MiB]  A004R21K   (10 files, 0 dirs)
+           |           |    889.8MiB  A004C023_110202_R21K.mov
+           |           |     41.4kiB  A004R21K_FCP.xml
+           |           | SEQ 31.7MiB  alexa_lin{%04}.dpx   [0-3000], miss=2997
+           |           | SEQ 31.7MiB  alexa_log{%05}.dpx   [0-3003], miss=3000
+           |           |           \----->
+           |   [1.27GiB]  ALEXA_Studio__ProRes   (8 files, 1 dirs)
+           |           |   [1.27GiB]  A001R4NZ   (8 files, 0 dirs)
+           |           |           |    309.2MiB  A001C001_130302_R4NZ.mov
+           |           |           |    124.5MiB  A001C013_130302_R4NZ.mov
+           |           |           |    205.6MiB  A001C014_130302_R4NZ.mov
+           |           |           |    221.0MiB  A001C015_130302_R4NZ.mov
+           |           |           |    220.9MiB  A001C016_130302_R4NZ.mov
+           |           |           |    224.0MiB  A001C017_130302_R4NZ.mov
+           |           |           |      7.3kiB  A001R4NZ_AVID.ale
+           |           |           |     48.0kiB  A001R4NZ_FCP.xml
+           |           |           |           \----->
+           |           |           \----->
+           |  [134.9MiB]  Arri Alexa LogC 1080p24 - Ducks   (2 files, 0 dirs)
+           |           |    134.9MiB  Arri Alexa LogC 1080p24 - Ducks.mov
+           |           |     50.5kiB  Demo Video Clips Licence.pdf
+           |           |           \----->
+           |   [2.29GiB]  DColor_comparison_Arri.ALEXA   (2 files, 1 dirs)
+           |           |   [2.29GiB]  A002R1LZ   (2 files, 0 dirs)
+           |           |           |     2.29GiB  A002C015_120321_R1LZ.mov
+           |           |           |     40.9kiB  A002R1LZ_FCP.xml
+           |           |           |           \----->
+           |           |           \----->
+           |   [2.10GiB]  frame-leader   (4 files, 1 dirs)
+           |           |   [2.10GiB]  A005R1L6   (4 files, 0 dirs)
+           |           |           |     2.10GiB  A005C001_130717_R1L6.mov
+           |           |           |        402B  A005C001_130717_R1L6.xml
+           |           |           |         57B  A005C001_130717_R1L6_md5.txt
+           |           |           |       1990B  A005C001_130717_R1L6_METADATI.csv
+           |           |           |           \----->
+           |           |           \----->
+           |   [1.53GiB]  test_Ikonoskop   (3 files, 1 dirs)
+           |           |   [1.53GiB]  A001R2D1   (3 files, 0 dirs)
+           |           |           |    805.5MiB  A001C001_110706_R2D1.mov
+           |           |           |    760.4MiB  A001C002_110706_R2D1.mov
+           |           |           |      5.3kiB  A001R2D1_FCP.xml
+           |           |           |           \----->
+           |           |           \----->
+           |     63.7kiB  01852NullLogFFDCIP3pre_alexa_mapped_g80.3dl
+           |     1.46GiB  A007C003_100911_L1LT.mov
+           |      512kiB  A007L1LT_FCP.xml
+           |     54.0MiB  A208C004_101210_R1M5.mov
+           |     71.2MiB  A208C005_101210_R1M5.mov
+           | SEQ 39.6MiB  provini_alexa_grd04.{%05}.dpx   [5652-14973], miss=9317
+           | SEQ 23.8MiB  provini_alexa_milano_grd03.{%05}.dpx   [31-17422], miss=17389
+           |           \----->
+  [17.24GiB]  aims   (68 files, 32 dirs)
+           |  [734.7MiB]  Canon_C300   (21 files, 7 dirs)
+           |           |  [734.7MiB]  CLIPS001   (21 files, 6 dirs)
+           |           |           |  [120.3MiB]  AA0022   (4 files, 0 dirs)
+           |           |           |           |      2.5kiB  AA0022.CIF
+           |           |           |           |        441B  AA0022.XML
+           |           |           |           |    118.6MiB  AA002201.MXF
+           |           |           |           |      1.8MiB  AA2201.SIF
+           |           |           |           |           \----->
+           |           |           |  [150.0MiB]  AA0024   (4 files, 0 dirs)
+           |           |           |           |      2.5kiB  AA0024.CIF
+           |           |           |           |        441B  AA0024.XML
+           |           |           |           |    148.2MiB  AA002401.MXF
+           |           |           |           |      1.8MiB  AA2401.SIF
+           |           |           |           |           \----->
+           |           |           |  [144.1MiB]  AA0025   (4 files, 0 dirs)
+           |           |           |           |      2.5kiB  AA0025.CIF
+           |           |           |           |        441B  AA0025.XML
+           |           |           |           |    142.3MiB  AA002501.MXF
+           |           |           |           |      1.8MiB  AA2501.SIF
+           |           |           |           |           \----->
+           |           |           |  [164.8MiB]  AA0027   (4 files, 0 dirs)
+           |           |           |           |      2.5kiB  AA0027.CIF
+           |           |           |           |        441B  AA0027.XML
+           |           |           |           |    163.1MiB  AA002701.MXF
+           |           |           |           |      1.8MiB  AA2701.SIF
+           |           |           |           |           \----->
+           |           |           |  [153.0MiB]  AA0028   (4 files, 0 dirs)
+           |           |           |           |      2.5kiB  AA0028.CIF
+           |           |           |           |        441B  AA0028.XML
+           |           |           |           |    151.2MiB  AA002801.MXF
+           |           |           |           |      1.8MiB  AA2801.SIF
+           |           |           |           |           \----->
+           |           |           |  [emptyDIR]  JOURNAL
+           |           |           |      2.5MiB  INDEX.MIF
+           |           |           |           \----->
+           |           |           \----->
+           |  [16.53GiB]  Sony_F55   (47 files, 23 dirs)
+           |           |  [13.56GiB]  CINEROOT   (5 files, 4 dirs)
+           |           |           |  [13.56GiB]  Clip   (4 files, 2 dirs)
+           |           |           |           |   [8.15GiB]  A001C001_130729WO   (2 files, 0 dirs)
+           |           |           |           |           |     8.15GiB  A001C001_130729WO.mxf
+           |           |           |           |           |      3.8kiB  A001C001_130729WOM1.xml
+           |           |           |           |           |           \----->
+           |           |           |           |   [5.41GiB]  A001C002_130729P7   (2 files, 0 dirs)
+           |           |           |           |           |     5.41GiB  A001C002_130729P7.mxf
+           |           |           |           |           |      3.8kiB  A001C002_130729P7M1.xml
+           |           |           |           |           |           \----->
+           |           |           |           |           \----->
+           |           |           |  [emptyDIR]  General
+           |           |           |       1204B  MEDIAPRO.xml
+           |           |           |           \----->
+           |           |   [1.52GiB]  CLIPS001   (33 files, 9 dirs)
+           |           |           |  [120.3MiB]  AA0022   (4 files, 0 dirs)
+           |           |           |           |      2.5kiB  AA0022.CIF
+           |           |           |           |        441B  AA0022.XML
+           |           |           |           |    118.6MiB  AA002201.MXF
+           |           |           |           |      1.8MiB  AA2201.SIF
+           |           |           |           |           \----->
+           |           |           |  [286.4MiB]  AA0023   (4 files, 0 dirs)
+           |           |           |           |      2.5kiB  AA0023.CIF
+           |           |           |           |        441B  AA0023.XML
+           |           |           |           |    284.6MiB  AA002301.MXF
+           |           |           |           |      1.8MiB  AA2301.SIF
+           |           |           |           |           \----->
+           |           |           |  [150.0MiB]  AA0024   (4 files, 0 dirs)
+           |           |           |           |      2.5kiB  AA0024.CIF
+           |           |           |           |        441B  AA0024.XML
+           |           |           |           |    148.2MiB  AA002401.MXF
+           |           |           |           |      1.8MiB  AA2401.SIF
+           |           |           |           |           \----->
+           |           |           |  [144.1MiB]  AA0025   (4 files, 0 dirs)
+           |           |           |           |      2.5kiB  AA0025.CIF
+           |           |           |           |        441B  AA0025.XML
+           |           |           |           |    142.3MiB  AA002501.MXF
+           |           |           |           |      1.8MiB  AA2501.SIF
+           |           |           |           |           \----->
+           |           |           |  [253.8MiB]  AA0026   (4 files, 0 dirs)
+           |           |           |           |      2.5kiB  AA0026.CIF
+           |           |           |           |        441B  AA0026.XML
+           |           |           |           |    252.0MiB  AA002601.MXF
+           |           |           |           |      1.8MiB  AA2601.SIF
+           |           |           |           |           \----->
+           |           |           |  [164.8MiB]  AA0027   (4 files, 0 dirs)
+           |           |           |           |      2.5kiB  AA0027.CIF
+           |           |           |           |        441B  AA0027.XML
+           |           |           |           |    163.1MiB  AA002701.MXF
+           |           |           |           |      1.8MiB  AA2701.SIF
+           |           |           |           |           \----->
+           |           |           |  [153.0MiB]  AA0028   (4 files, 0 dirs)
+           |           |           |           |      2.5kiB  AA0028.CIF
+           |           |           |           |        441B  AA0028.XML
+           |           |           |           |    151.2MiB  AA002801.MXF
+           |           |           |           |      1.8MiB  AA2801.SIF
+           |           |           |           |           \----->
+           |           |           |  [277.5MiB]  AA0029   (4 files, 0 dirs)
+           |           |           |           |      2.5kiB  AA0029.CIF
+           |           |           |           |        441B  AA0029.XML
+           |           |           |           |    275.8MiB  AA002901.MXF
+           |           |           |           |      1.8MiB  AA2901.SIF
+           |           |           |           |           \----->
+           |           |           |  [emptyDIR]  JOURNAL
+           |           |           |      2.5MiB  INDEX.MIF
+           |           |           |           \----->
+           |           |   [1.45GiB]  XDROOT   (9 files, 7 dirs)
+           |           |           |   [1.45GiB]  Clip   (6 files, 0 dirs)
+           |           |           |           |    882.8MiB  Clip0063.MXF
+           |           |           |           |      2.5kiB  Clip0063M01.XML
+           |           |           |           |     10.4MiB  Clip0063R01.BIM
+           |           |           |           |    585.4MiB  Clip0064.MXF
+           |           |           |           |      2.5kiB  Clip0064M01.XML
+           |           |           |           |      6.9MiB  Clip0064R1.BIM
+           |           |           |           |           \----->
+           |           |           |  [emptyDIR]  Edit
+           |           |           |  [emptyDIR]  General
+           |           |           |  [emptyDIR]  Sub
+           |           |           |  [emptyDIR]  Take
+           |           |           |  [emptyDIR]  Thmbnl
+           |           |           |  [emptyDIR]  UserData
+           |           |           |        424B  CUEUP.XML
+           |           |           |        286B  DISCMETA.XML
+           |           |           |       1230B  MEDIAPRO.XML
+           |           |           |           \----->
+           |           |           \----->
+           |           \----->
+  [16.28GiB]  Arriflex_D-2x   (1941 files, 154 dirs)
+           |  [146.9MiB]  ARRIRAW_2400   (10 files, 2 dirs)
+           |           |   [21.2MiB]  1920x1080   (2 files, 0 dirs)
+           |           |           | SEQ 21.2MiB  tape0o1_scene_001_cama_take_001_{%07}.dpx   [86400-86401]
+           |           |           |           \----->
+           |           |   [47.5MiB]  2880x2160   (2 files, 0 dirs)
+           |           |           | SEQ 47.5MiB  D21.tape0o1_scene_001_cama_take_001.{%07}.dpx   [86400-86401]
+           |           |           |           \----->
+           |           |     10.6MiB  0387544__1920x1440.dpx
+           |           |     10.6MiB  0387544__S.two-ARRIRAW.dpx
+           |           |     23.7MiB  0387547__2880x2160.dpx
+           |           |     10.6MiB  0387547__S.two-ARRIRAW.dpx
+           |           |     12.0MiB  0387556__2048x1536.dpx
+           |           |     10.6MiB  0387556__S.two-ARRIRAW.dpx
+           |           |           \----->
+           |  [337.6MiB]  ARRIRAW_2500   (41 files, 2 dirs)
+           |           |   [42.5MiB]  1920x1080   (4 files, 0 dirs)
+           |           |           | SEQ 21.2MiB  Stwo.TAPE091_TAPE091_camA_TAKE_045_{%07}.dpx   [950400-950415], miss=14
+           |           |           | SEQ 21.2MiB  tape051_take001_cama_take_007_{%07}.dpx   [961917-961966], miss=48
+           |           |           |           \----->
+           |           |  [108.1MiB]  2048x1536   (9 files, 0 dirs)
+           |           |           | SEQ 84.1MiB  d21.tape001_scene_001_cama_take_007.{%07}.dpx   [99683-101348], miss=1659
+           |           |           | SEQ 24.0MiB  DPX.TAPE091_TAPE091_camA_TAKE_045.{%07}.dpx   [950400-950415], miss=14
+           |           |           |           \----->
+           |           |     12.0MiB  d21.tape001_scene_001_cama_take_004.0092984.dpx
+           |           |    267.9kiB  D21.TAPE001_SCENE_001_camA_TAKE_007.00099683-00101348.dpx.log.xml
+           |           |     12.0MiB  d21.tape001_scene_001_cama_take_009.0103804.dpx
+           |           |     12.0MiB  d21.tape001_scene_001_cama_take_011.0107898.dpx
+           |           |     12.0MiB  d21.tape001_scene_001_cama_take_012.0110108.dpx
+           |           |     12.0MiB  d21.tape001_scene_001_cama_take_013.0112553.dpx
+           |           |     12.0MiB  d21.tape001_scene_001_cama_take_014.0115985.dpx
+           |           |     17.4kiB  fs.REEL002_SCENE_002_camA_TAKE_008.00183426-00183516.dpx.log.xml
+           |           |     19.1kiB  fs.REEL007_SCENE_001_camA_TAKE_016.00620480-00620579.dpx.log.xml
+           |           |     20.2kiB  fs.TAPE046_SCENE_001_camA_TAKE_023.00556849-00556954.dpx.log.xml
+           |           |     14.6kiB  fs.TAPE054_SCENE_001_camA_TAKE_034.01268203-01268278.dpx.log.xml
+           |           |     23.7MiB  fs.tape054_scene_001_cama_take_034.1268251.dpx
+           |           |     12.6kiB  fs.TAPE054_SCENE_001_camA_TAKE_041.01276084-01276148.dpx.log.xml
+           |           |     13.5kiB  fs.TAPE055_SCENE_001_camA_TAKE_018.01326230-01326299.dpx.log.xml
+           |           |     16.5kiB  fs.TAPE070_SCENE_001_camA_TAKE_007.00875995-00876080.dpx.log.xml
+           |           |     23.7MiB  fs.tape070_scene_001_cama_take_007.0876012.dpx
+           |           |      4.5kiB  fs.TAPE091_TAPE091_camA_TAKE_045.00950400-00950415.dpx.log.xml
+           |           |     22.5kiB  fs.TAPE092_TAKE_001_camA_TAKE_011.01056771-01056890.dpx.log.xml
+           |           |     10.6MiB  REEL001_SCENE_001_camA_TAKE_005_0089242.dpx
+           |           |      5.3MiB  REEL002_SCENE_001_camA_TAKE_001_0182110.dpx
+           |           | SEQ 10.6MiB  REEL002_SCENE_001_camA_TAKE_003_{%07}.dpx   [187113-187471], miss=357
+           |           |      1.5MiB  REEL038_SCENE_001_camA_TAKE_009_1572190.png
+           |           | SEQ 17.8MiB  Take002_{%08}.ari   [200-201]
+           |           |     10.6MiB  tape054_scene_001_cama_take_034_1268251.dpx
+           |           |     10.6MiB  tape070_scene_001_cama_take_007_0876012.dpx
+           |           |      8.4kiB  test_backup_XML.xml
+           |           |           \----->
+           |  [15.60GiB]  ARRIRAW™_from_Arri.FTP   (1648 files, 63 dirs)
+           |           |   [8.87GiB]  D-20_ARRIRAWs   (1021 files, 8 dirs)
+           |           |           |   [4.35GiB]  Anamorph_Night   (500 files, 1 dirs)
+           |           |           |           |   [4.35GiB]  Take005   (500 files, 0 dirs)
+           |           |           |           |           | SEQ 4.35GiB  Take005_{%08}.ari   [100-599]
+           |           |           |           |           |           \----->
+           |           |           |           |           \----->
+           |           |           |   [3.88GiB]  Anamorph_Park   (447 files, 2 dirs)
+           |           |           |           |   [3.88GiB]  Take_002   (447 files, 0 dirs)
+           |           |           |           |           | SEQ 3.88GiB  Take002_{%08}.ari   [200-646]
+           |           |           |           |           |           \----->
+           |           |           |           |  [emptyDIR]  Take_003
+           |           |           |           |           \----->
+           |           |           |  [222.5MiB]  spherical_Candles   (25 files, 0 dirs)
+           |           |           |           |SEQ 222.5MiB  TAKE250_{%08}.ari   [203754-203778]
+           |           |           |           |           \----->
+           |           |           |  [213.6MiB]  spherical_FullScene   (24 files, 0 dirs)
+           |           |           |           |SEQ 213.6MiB  TAKE154_{%08}.ari   [175681-175704]
+           |           |           |           |           \----->
+           |           |           |  [222.5MiB]  spherical_Portrait   (25 files, 0 dirs)
+           |           |           |           |SEQ 222.5MiB  TAKE189_{%08}.ari   [194989-195013]
+           |           |           |           |           \----->
+           |           |           |           \----->
+           |           |   [5.68GiB]  D-20_DPX_transcodes   (516 files, 50 dirs)
+           |           |           |  [312.2MiB]  Anamorph_logC_MXfilmlogV2_75DS   (26 files, 3 dirs)
+           |           |           |           |  [312.2MiB]  Anamorph_Park   (26 files, 2 dirs)
+           |           |           |           |           |  [312.2MiB]  Take_003   (26 files, 1 dirs)
+           |           |           |           |           |           |  [312.2MiB]  2048x1536   (26 files, 0 dirs)
+           |           |           |           |           |           |           |SEQ 312.2MiB  MXfilmlogV2_75DS_anamorph_desqueeze.Take003.{%08}.dpx   [120-145]
+           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |           \----->
+           |           |           |           |           \----->
+           |           |           |  [174.1MiB]  Anamorph_logC_MXfilmlogV2_75DS_deSqueeze   (26 files, 3 dirs)
+           |           |           |           |  [174.1MiB]  Anamorph_Park_deSqueeze   (26 files, 2 dirs)
+           |           |           |           |           |  [174.1MiB]  Take_003   (26 files, 1 dirs)
+           |           |           |           |           |           |  [174.1MiB]  2048x856   (26 files, 0 dirs)
+           |           |           |           |           |           |           |SEQ 174.1MiB  MXfilmlogV2_75DS_anamorph_desqueeze.Take003.{%08}.dpx   [120-145]
+           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |           \----->
+           |           |           |           |           \----->
+           |           |           |  [888.6MiB]  logC_MX3200K   (77 files, 6 dirs)
+           |           |           |           |  [300.2MiB]  Candles   (26 files, 1 dirs)
+           |           |           |           |           |  [300.2MiB]  2048x1536   (25 files, 0 dirs)
+           |           |           |           |           |           |SEQ 300.2MiB  MX3200K.Take250.{%08}.dpx   [203754-203778]
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |        242B  MX3200K.Take250.#.dpx.reel
+           |           |           |           |           |           \----->
+           |           |           |           |  [288.2MiB]  Fullscene   (25 files, 1 dirs)
+           |           |           |           |           |  [288.2MiB]  2048x1536   (24 files, 0 dirs)
+           |           |           |           |           |           |SEQ 288.2MiB  MX3200K.Take154.{%08}.dpx   [175681-175704]
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |        242B  MX3200K.Take154.#.dpx.reel
+           |           |           |           |           |           \----->
+           |           |           |           |  [300.2MiB]  Portrait   (26 files, 1 dirs)
+           |           |           |           |           |  [300.2MiB]  2048x1536   (25 files, 0 dirs)
+           |           |           |           |           |           |SEQ 300.2MiB  MX3200K.Take189.{%08}.dpx   [194989-195013]
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |        242B  MX3200K.Take189.#.dpx.reel
+           |           |           |           |           |           \----->
+           |           |           |           |           \----->
+           |           |           |  [888.6MiB]  logC_MXfilmlog75   (80 files, 6 dirs)
+           |           |           |           |  [300.2MiB]  Candles   (27 files, 1 dirs)
+           |           |           |           |           |  [300.2MiB]  2048x1536   (25 files, 0 dirs)
+           |           |           |           |           |           |SEQ 300.2MiB  MXfilmlog75.Take250.{%08}.dpx   [203754-203778]
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |        242B  logC_noMX.Take250.#.dpx.reel
+           |           |           |           |           |        242B  MXfilmlog75.Take250.#.dpx.reel
+           |           |           |           |           |           \----->
+           |           |           |           |  [288.2MiB]  Fullscene   (26 files, 1 dirs)
+           |           |           |           |           |  [288.2MiB]  2048x1536   (24 files, 0 dirs)
+           |           |           |           |           |           |SEQ 288.2MiB  MXfilmlog75.Take154.{%08}.dpx   [175681-175704]
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |        242B  logC_noMX.Take154.#.dpx.reel
+           |           |           |           |           |        242B  MXfilmlog75.Take154.#.dpx.reel
+           |           |           |           |           |           \----->
+           |           |           |           |  [300.2MiB]  Portrait   (27 files, 1 dirs)
+           |           |           |           |           |  [300.2MiB]  2048x1536   (25 files, 0 dirs)
+           |           |           |           |           |           |SEQ 300.2MiB  MXfilmlog75.Take189.{%08}.dpx   [194989-195013]
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |        242B  logC_noMX.Take189.#.dpx.reel
+           |           |           |           |           |        242B  MXfilmlog75.Take189.#.dpx.reel
+           |           |           |           |           |           \----->
+           |           |           |           |           \----->
+           |           |           |  [888.6MiB]  logC_MXfilmlog75DS   (80 files, 6 dirs)
+           |           |           |           |  [300.2MiB]  Candles   (27 files, 1 dirs)
+           |           |           |           |           |  [300.2MiB]  2048x1536   (25 files, 0 dirs)
+           |           |           |           |           |           |SEQ 300.2MiB  MXfilmlog75DS.Take250.{%08}.dpx   [203754-203778]
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |        242B  logC_noMX.Take250.#.dpx.reel
+           |           |           |           |           |        242B  MXfilmlog75DS.Take250.#.dpx.reel
+           |           |           |           |           |           \----->
+           |           |           |           |  [288.2MiB]  Fullscene   (26 files, 1 dirs)
+           |           |           |           |           |  [288.2MiB]  2048x1536   (24 files, 0 dirs)
+           |           |           |           |           |           |SEQ 288.2MiB  MXfilmlog75DS.Take154.{%08}.dpx   [175681-175704]
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |        242B  logC_noMX.Take154.#.dpx.reel
+           |           |           |           |           |        242B  MXfilmlog75DS.Take154.#.dpx.reel
+           |           |           |           |           |           \----->
+           |           |           |           |  [300.2MiB]  Portrait   (27 files, 1 dirs)
+           |           |           |           |           |  [300.2MiB]  2048x1536   (25 files, 0 dirs)
+           |           |           |           |           |           |SEQ 300.2MiB  MXfilmlog75DS.Take189.{%08}.dpx   [194989-195013]
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |        242B  logC_noMX.Take189.#.dpx.reel
+           |           |           |           |           |        242B  MXfilmlog75DS.Take189.#.dpx.reel
+           |           |           |           |           |           \----->
+           |           |           |           |           \----->
+           |           |           |  [888.6MiB]  logC_MXfilmlogV2_75   (75 files, 6 dirs)
+           |           |           |           |  [300.2MiB]  Candles   (25 files, 1 dirs)
+           |           |           |           |           |  [300.2MiB]  2048x1536   (25 files, 0 dirs)
+           |           |           |           |           |           |SEQ 300.2MiB  MXfilmlogV2_75.Take250.{%08}.dpx   [203754-203778]
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |           \----->
+           |           |           |           |  [288.2MiB]  Fullscene   (25 files, 1 dirs)
+           |           |           |           |           |  [288.2MiB]  2048x1536   (24 files, 0 dirs)
+           |           |           |           |           |           |SEQ 288.2MiB  MXfilmlogV2_75.Take154.{%08}.dpx   [175681-175704]
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |        242B  MXfilmlogV2_75.Take154.#.dpx.reel
+           |           |           |           |           |           \----->
+           |           |           |           |  [300.2MiB]  Portrait   (25 files, 1 dirs)
+           |           |           |           |           |  [300.2MiB]  2048x1536   (25 files, 0 dirs)
+           |           |           |           |           |           |SEQ 300.2MiB  MXfilmlogV2_75.Take189.{%08}.dpx   [194989-195013]
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |           \----->
+           |           |           |           |           \----->
+           |           |           |  [888.6MiB]  logC_MXfilmlogV2_75DS   (75 files, 6 dirs)
+           |           |           |           |  [300.2MiB]  Candles   (25 files, 1 dirs)
+           |           |           |           |           |  [300.2MiB]  2048x1536   (25 files, 0 dirs)
+           |           |           |           |           |           |SEQ 300.2MiB  MXfilmlogV2_75DS.Take250.{%08}.dpx   [203754-203778]
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |           \----->
+           |           |           |           |  [288.2MiB]  Fullscene   (25 files, 1 dirs)
+           |           |           |           |           |  [288.2MiB]  2048x1536   (24 files, 0 dirs)
+           |           |           |           |           |           |SEQ 288.2MiB  MXfilmlogV2_75DS.Take154.{%08}.dpx   [175681-175704]
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |        242B  MXfilmlogV2_75DS.Take154.#.dpx.reel
+           |           |           |           |           |           \----->
+           |           |           |           |  [300.2MiB]  Portrait   (25 files, 1 dirs)
+           |           |           |           |           |  [300.2MiB]  2048x1536   (25 files, 0 dirs)
+           |           |           |           |           |           |SEQ 300.2MiB  MXfilmlogV2_75DS.Take189.{%08}.dpx   [194989-195013]
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |           \----->
+           |           |           |           |           \----->
+           |           |           |  [888.6MiB]  logC_noMX   (77 files, 6 dirs)
+           |           |           |           |  [300.2MiB]  Candles   (26 files, 1 dirs)
+           |           |           |           |           |  [300.2MiB]  2048x1536   (25 files, 0 dirs)
+           |           |           |           |           |           |SEQ 300.2MiB  logC_noMX.Take250.{%08}.dpx   [203754-203778]
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |        242B  logC_noMX.Take250.#.dpx.reel
+           |           |           |           |           |           \----->
+           |           |           |           |  [288.2MiB]  Fullscene   (25 files, 1 dirs)
+           |           |           |           |           |  [288.2MiB]  2048x1536   (24 files, 0 dirs)
+           |           |           |           |           |           |SEQ 288.2MiB  logC_noMX.Take154.{%08}.dpx   [175681-175704]
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |        242B  logC_noMX.Take154.#.dpx.reel
+           |           |           |           |           |           \----->
+           |           |           |           |  [300.2MiB]  Portrait   (26 files, 1 dirs)
+           |           |           |           |           |  [300.2MiB]  2048x1536   (25 files, 0 dirs)
+           |           |           |           |           |           |SEQ 300.2MiB  logC_noMX.Take189.{%08}.dpx   [194989-195013]
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |        242B  logC_noMX.Take189.#.dpx.reel
+           |           |           |           |           |           \----->
+           |           |           |           |           \----->
+           |           |           |           \----->
+           |           |   [1.04GiB]  D-21_S.two_DPXs   (100 files, 1 dirs)
+           |           |           |   [1.04GiB]  1920x1080   (100 files, 0 dirs)
+           |           |           |           | SEQ 1.04GiB  reel_001_scene_001_camA_take_002_{%07}.dpx   [15000-15099]
+           |           |           |           |           \----->
+           |           |           |           \----->
+           |           |   [23.3kiB]  XML_LUTs_D-21   (10 files, 0 dirs)
+           |           |           |      2.2kiB  linear.xml
+           |           |           |      2.4kiB  logC_MX3200K.xml
+           |           |           |      2.3kiB  logC_MXfilmlin75.xml
+           |           |           |      2.3kiB  logC_MXfilmlog75.xml
+           |           |           |      2.3kiB  logC_MXfilmlog75DS.xml
+           |           |           |      2.3kiB  logC_MXfilmlogV2_75.xml
+           |           |           |      2.3kiB  logC_MXfilmlogV2_75DS.xml
+           |           |           |      2.3kiB  logC_MXfilmlogV2_75DS_anamorph.xml
+           |           |           |      2.4kiB  logC_MXfilmlogV2_75DS_anamorph_desqueeze.xml
+           |           |           |      2.3kiB  logC_noMX.xml
+           |           |           |           \----->
+           |           |      8.9MiB  TAKE154_175681.ari
+           |           |           \----->
+           |   [39.6MiB]  D21_16mm_emul   (5 files, 0 dirs)
+           |           |      7.9MiB  0041_01_000000.dpx
+           |           |      7.9MiB  0048_02_000000.dpx
+           |           |      7.9MiB  0061_01_000000.dpx
+           |           |      7.9MiB  0089_01_000000.dpx
+           |           |      7.9MiB  1002_02_0.dpx
+           |           |           \----->
+           |   [23.7MiB]  D21_35mm_emul   (3 files, 0 dirs)
+           |           | SEQ 23.7MiB  0035_{%06}.dpx   [159-161]
+           |           |           \----->
+           |   [67.9MiB]  FilmMaster_D21_tests   (228 files, 81 dirs)
+           |           |   [26.3MiB]  D21_delog_3D.LUT_v2.1   (223 files, 80 dirs)
+           |           |           |    [1.4MiB]  autodesk17steps   (22 files, 7 dirs)
+           |           |           |           |    [1.4MiB]  linGain   (22 files, 6 dirs)
+           |           |           |           |           |  [720.1kiB]  delogC   (11 files, 2 dirs)
+           |           |           |           |           |           |  [720.1kiB]  unscaled   (11 files, 1 dirs)
+           |           |           |           |           |           |           |  [720.1kiB]  neutral   (11 files, 0 dirs)
+           |           |           |           |           |           |           |           |     65.4kiB  D21_delogC__EI0100_B1.3dl
+           |           |           |           |           |           |           |           |     64.5kiB  D21_delogC__EI0125_B1.3dl
+           |           |           |           |           |           |           |           |     65.4kiB  D21_delogC__EI0160_B1.3dl
+           |           |           |           |           |           |           |           |     64.5kiB  D21_delogC__EI0200_B1.3dl
+           |           |           |           |           |           |           |           |     64.5kiB  D21_delogC__EI0250_B1.3dl
+           |           |           |           |           |           |           |           |     65.4kiB  D21_delogC__EI0320_B1.3dl
+           |           |           |           |           |           |           |           |     65.4kiB  D21_delogC__EI0400_B1.3dl
+           |           |           |           |           |           |           |           |     65.4kiB  D21_delogC__EI0500_B1.3dl
+           |           |           |           |           |           |           |           |     66.2kiB  D21_delogC__EI0640_B1.3dl
+           |           |           |           |           |           |           |           |     66.2kiB  D21_delogC__EI0800_B1.3dl
+           |           |           |           |           |           |           |           |     67.1kiB  unitiy__.3dl
+           |           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |  [720.9kiB]  delogF   (11 files, 2 dirs)
+           |           |           |           |           |           |  [720.9kiB]  unscaled   (11 files, 1 dirs)
+           |           |           |           |           |           |           |  [720.9kiB]  neutral   (11 files, 0 dirs)
+           |           |           |           |           |           |           |           |     64.5kiB  D21_delogF__EI0100_B1.3dl
+           |           |           |           |           |           |           |           |     64.5kiB  D21_delogF__EI0125_B1.3dl
+           |           |           |           |           |           |           |           |     64.5kiB  D21_delogF__EI0160_B1.3dl
+           |           |           |           |           |           |           |           |     65.4kiB  D21_delogF__EI0200_B1.3dl
+           |           |           |           |           |           |           |           |     65.4kiB  D21_delogF__EI0250_B1.3dl
+           |           |           |           |           |           |           |           |     65.4kiB  D21_delogF__EI0320_B1.3dl
+           |           |           |           |           |           |           |           |     65.4kiB  D21_delogF__EI0400_B1.3dl
+           |           |           |           |           |           |           |           |     66.2kiB  D21_delogF__EI0500_B1.3dl
+           |           |           |           |           |           |           |           |     66.2kiB  D21_delogF__EI0640_B1.3dl
+           |           |           |           |           |           |           |           |     66.2kiB  D21_delogF__EI0800_B1.3dl
+           |           |           |           |           |           |           |           |     67.1kiB  unitiy__.3dl
+           |           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |           \----->
+           |           |           |           |           \----->
+           |           |           |    [2.1MiB]  chrome16steps   (22 files, 7 dirs)
+           |           |           |           |    [2.1MiB]  linGain   (22 files, 6 dirs)
+           |           |           |           |           |    [1.0MiB]  delogC   (11 files, 2 dirs)
+           |           |           |           |           |           |    [1.0MiB]  unscaled   (11 files, 1 dirs)
+           |           |           |           |           |           |           |    [1.0MiB]  neutral   (11 files, 0 dirs)
+           |           |           |           |           |           |           |           |    105.3kiB  D21_delogC__EI0100_B1.xml
+           |           |           |           |           |           |           |           |    100.8kiB  D21_delogC__EI0125_B1.xml
+           |           |           |           |           |           |           |           |    102.3kiB  D21_delogC__EI0160_B1.xml
+           |           |           |           |           |           |           |           |     94.8kiB  D21_delogC__EI0200_B1.xml
+           |           |           |           |           |           |           |           |     97.1kiB  D21_delogC__EI0250_B1.xml
+           |           |           |           |           |           |           |           |     97.8kiB  D21_delogC__EI0320_B1.xml
+           |           |           |           |           |           |           |           |     92.6kiB  D21_delogC__EI0400_B1.xml
+           |           |           |           |           |           |           |           |     92.6kiB  D21_delogC__EI0500_B1.xml
+           |           |           |           |           |           |           |           |     87.3kiB  D21_delogC__EI0640_B1.xml
+           |           |           |           |           |           |           |           |     85.8kiB  D21_delogC__EI0800_B1.xml
+           |           |           |           |           |           |           |           |     82.8kiB  unitiy__.xml
+           |           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |    [1.1MiB]  delogF   (11 files, 2 dirs)
+           |           |           |           |           |           |    [1.1MiB]  unscaled   (11 files, 1 dirs)
+           |           |           |           |           |           |           |    [1.1MiB]  neutral   (11 files, 0 dirs)
+           |           |           |           |           |           |           |           |    103.1kiB  D21_delogF__EI0100_B1.xml
+           |           |           |           |           |           |           |           |    102.3kiB  D21_delogF__EI0125_B1.xml
+           |           |           |           |           |           |           |           |    102.3kiB  D21_delogF__EI0160_B1.xml
+           |           |           |           |           |           |           |           |    101.6kiB  D21_delogF__EI0200_B1.xml
+           |           |           |           |           |           |           |           |    101.6kiB  D21_delogF__EI0250_B1.xml
+           |           |           |           |           |           |           |           |    101.6kiB  D21_delogF__EI0320_B1.xml
+           |           |           |           |           |           |           |           |    102.3kiB  D21_delogF__EI0400_B1.xml
+           |           |           |           |           |           |           |           |    100.8kiB  D21_delogF__EI0500_B1.xml
+           |           |           |           |           |           |           |           |     97.8kiB  D21_delogF__EI0640_B1.xml
+           |           |           |           |           |           |           |           |     91.8kiB  D21_delogF__EI0800_B1.xml
+           |           |           |           |           |           |           |           |     82.8kiB  unitiy__.xml
+           |           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |           \----->
+           |           |           |           |           \----->
+           |           |           |    [2.5MiB]  chrome17steps   (22 files, 7 dirs)
+           |           |           |           |    [2.5MiB]  linGain   (22 files, 6 dirs)
+           |           |           |           |           |    [1.2MiB]  delogC   (11 files, 2 dirs)
+           |           |           |           |           |           |    [1.2MiB]  unscaled   (11 files, 1 dirs)
+           |           |           |           |           |           |           |    [1.2MiB]  neutral   (11 files, 0 dirs)
+           |           |           |           |           |           |           |           |    128.2kiB  D21_delogC__EI0100_B1.xml
+           |           |           |           |           |           |           |           |    123.9kiB  D21_delogC__EI0125_B1.xml
+           |           |           |           |           |           |           |           |    123.1kiB  D21_delogC__EI0160_B1.xml
+           |           |           |           |           |           |           |           |    118.0kiB  D21_delogC__EI0200_B1.xml
+           |           |           |           |           |           |           |           |    118.0kiB  D21_delogC__EI0250_B1.xml
+           |           |           |           |           |           |           |           |    116.3kiB  D21_delogC__EI0320_B1.xml
+           |           |           |           |           |           |           |           |    111.2kiB  D21_delogC__EI0400_B1.xml
+           |           |           |           |           |           |           |           |    111.2kiB  D21_delogC__EI0500_B1.xml
+           |           |           |           |           |           |           |           |    106.2kiB  D21_delogC__EI0640_B1.xml
+           |           |           |           |           |           |           |           |    104.5kiB  D21_delogC__EI0800_B1.xml
+           |           |           |           |           |           |           |           |     83.3kiB  unitiy__.xml
+           |           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |    [1.3MiB]  delogF   (11 files, 2 dirs)
+           |           |           |           |           |           |    [1.3MiB]  unscaled   (11 files, 1 dirs)
+           |           |           |           |           |           |           |    [1.3MiB]  neutral   (11 files, 0 dirs)
+           |           |           |           |           |           |           |           |    123.1kiB  D21_delogF__EI0100_B1.xml
+           |           |           |           |           |           |           |           |    122.2kiB  D21_delogF__EI0125_B1.xml
+           |           |           |           |           |           |           |           |    123.9kiB  D21_delogF__EI0160_B1.xml
+           |           |           |           |           |           |           |           |    121.4kiB  D21_delogF__EI0200_B1.xml
+           |           |           |           |           |           |           |           |    123.1kiB  D21_delogF__EI0250_B1.xml
+           |           |           |           |           |           |           |           |    123.1kiB  D21_delogF__EI0320_B1.xml
+           |           |           |           |           |           |           |           |    123.1kiB  D21_delogF__EI0400_B1.xml
+           |           |           |           |           |           |           |           |    121.4kiB  D21_delogF__EI0500_B1.xml
+           |           |           |           |           |           |           |           |    117.2kiB  D21_delogF__EI0640_B1.xml
+           |           |           |           |           |           |           |           |    111.2kiB  D21_delogF__EI0800_B1.xml
+           |           |           |           |           |           |           |           |     83.3kiB  unitiy__.xml
+           |           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |           \----->
+           |           |           |           |           \----->
+           |           |           |    [1.7MiB]  clipster17steps   (22 files, 7 dirs)
+           |           |           |           |    [1.7MiB]  linGain   (22 files, 6 dirs)
+           |           |           |           |           |  [879.8kiB]  delogC   (11 files, 2 dirs)
+           |           |           |           |           |           |  [879.8kiB]  unscaled   (11 files, 1 dirs)
+           |           |           |           |           |           |           |  [879.8kiB]  neutral   (11 files, 0 dirs)
+           |           |           |           |           |           |           |           |     80.5kiB  D21_delogC__EI0100_B1.xml
+           |           |           |           |           |           |           |           |     78.8kiB  D21_delogC__EI0125_B1.xml
+           |           |           |           |           |           |           |           |     79.7kiB  D21_delogC__EI0160_B1.xml
+           |           |           |           |           |           |           |           |     79.7kiB  D21_delogC__EI0200_B1.xml
+           |           |           |           |           |           |           |           |     79.7kiB  D21_delogC__EI0250_B1.xml
+           |           |           |           |           |           |           |           |     79.7kiB  D21_delogC__EI0320_B1.xml
+           |           |           |           |           |           |           |           |     79.7kiB  D21_delogC__EI0400_B1.xml
+           |           |           |           |           |           |           |           |     79.7kiB  D21_delogC__EI0500_B1.xml
+           |           |           |           |           |           |           |           |     80.5kiB  D21_delogC__EI0640_B1.xml
+           |           |           |           |           |           |           |           |     80.5kiB  D21_delogC__EI0800_B1.xml
+           |           |           |           |           |           |           |           |     81.4kiB  unitiy__.xml
+           |           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |  [868.8kiB]  delogF   (11 files, 2 dirs)
+           |           |           |           |           |           |  [868.8kiB]  unscaled   (11 files, 1 dirs)
+           |           |           |           |           |           |           |  [868.8kiB]  neutral   (11 files, 0 dirs)
+           |           |           |           |           |           |           |           |     79.7kiB  D21_delogF__EI0100_B1.xml
+           |           |           |           |           |           |           |           |     78.0kiB  D21_delogF__EI0125_B1.xml
+           |           |           |           |           |           |           |           |     78.0kiB  D21_delogF__EI0160_B1.xml
+           |           |           |           |           |           |           |           |     78.8kiB  D21_delogF__EI0200_B1.xml
+           |           |           |           |           |           |           |           |     78.8kiB  D21_delogF__EI0250_B1.xml
+           |           |           |           |           |           |           |           |     78.8kiB  D21_delogF__EI0320_B1.xml
+           |           |           |           |           |           |           |           |     78.8kiB  D21_delogF__EI0400_B1.xml
+           |           |           |           |           |           |           |           |     78.8kiB  D21_delogF__EI0500_B1.xml
+           |           |           |           |           |           |           |           |     78.8kiB  D21_delogF__EI0640_B1.xml
+           |           |           |           |           |           |           |           |     78.8kiB  D21_delogF__EI0800_B1.xml
+           |           |           |           |           |           |           |           |     81.4kiB  unitiy__.xml
+           |           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |           \----->
+           |           |           |           |           \----->
+           |           |           |    [2.5MiB]  davinci17steps   (22 files, 7 dirs)
+           |           |           |           |    [2.5MiB]  linGain   (22 files, 6 dirs)
+           |           |           |           |           |    [1.2MiB]  delogC   (11 files, 2 dirs)
+           |           |           |           |           |           |    [1.2MiB]  unscaled   (11 files, 1 dirs)
+           |           |           |           |           |           |           |    [1.2MiB]  neutral   (11 files, 0 dirs)
+           |           |           |           |           |           |           |           |    127.9kiB  D21_delogC__EI0100_B1.davlut
+           |           |           |           |           |           |           |           |    123.6kiB  D21_delogC__EI0125_B1.davlut
+           |           |           |           |           |           |           |           |    122.8kiB  D21_delogC__EI0160_B1.davlut
+           |           |           |           |           |           |           |           |    117.7kiB  D21_delogC__EI0200_B1.davlut
+           |           |           |           |           |           |           |           |    117.7kiB  D21_delogC__EI0250_B1.davlut
+           |           |           |           |           |           |           |           |    116.0kiB  D21_delogC__EI0320_B1.davlut
+           |           |           |           |           |           |           |           |    110.9kiB  D21_delogC__EI0400_B1.davlut
+           |           |           |           |           |           |           |           |    110.9kiB  D21_delogC__EI0500_B1.davlut
+           |           |           |           |           |           |           |           |    105.8kiB  D21_delogC__EI0640_B1.davlut
+           |           |           |           |           |           |           |           |    104.2kiB  D21_delogC__EI0800_B1.davlut
+           |           |           |           |           |           |           |           |     83.0kiB  unitiy__.davlut
+           |           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |    [1.3MiB]  delogF   (11 files, 2 dirs)
+           |           |           |           |           |           |    [1.3MiB]  unscaled   (11 files, 1 dirs)
+           |           |           |           |           |           |           |    [1.3MiB]  neutral   (11 files, 0 dirs)
+           |           |           |           |           |           |           |           |    122.8kiB  D21_delogF__EI0100_B1.davlut
+           |           |           |           |           |           |           |           |    121.9kiB  D21_delogF__EI0125_B1.davlut
+           |           |           |           |           |           |           |           |    123.6kiB  D21_delogF__EI0160_B1.davlut
+           |           |           |           |           |           |           |           |    121.1kiB  D21_delogF__EI0200_B1.davlut
+           |           |           |           |           |           |           |           |    122.8kiB  D21_delogF__EI0250_B1.davlut
+           |           |           |           |           |           |           |           |    122.8kiB  D21_delogF__EI0320_B1.davlut
+           |           |           |           |           |           |           |           |    122.8kiB  D21_delogF__EI0400_B1.davlut
+           |           |           |           |           |           |           |           |    121.1kiB  D21_delogF__EI0500_B1.davlut
+           |           |           |           |           |           |           |           |    116.9kiB  D21_delogF__EI0640_B1.davlut
+           |           |           |           |           |           |           |           |    110.9kiB  D21_delogF__EI0800_B1.davlut
+           |           |           |           |           |           |           |           |     83.0kiB  unitiy__.davlut
+           |           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |           \----->
+           |           |           |           |           \----->
+           |           |           |    [2.1MiB]  iridas16steps   (22 files, 7 dirs)
+           |           |           |           |    [2.1MiB]  linGain   (22 files, 6 dirs)
+           |           |           |           |           |    [1.0MiB]  delogC   (11 files, 2 dirs)
+           |           |           |           |           |           |    [1.0MiB]  unscaled   (11 files, 1 dirs)
+           |           |           |           |           |           |           |    [1.0MiB]  neutral   (11 files, 0 dirs)
+           |           |           |           |           |           |           |           |    105.0kiB  D21_delogC__EI0100_B1.cube
+           |           |           |           |           |           |           |           |    100.5kiB  D21_delogC__EI0125_B1.cube
+           |           |           |           |           |           |           |           |    102.0kiB  D21_delogC__EI0160_B1.cube
+           |           |           |           |           |           |           |           |     94.5kiB  D21_delogC__EI0200_B1.cube
+           |           |           |           |           |           |           |           |     96.8kiB  D21_delogC__EI0250_B1.cube
+           |           |           |           |           |           |           |           |     97.5kiB  D21_delogC__EI0320_B1.cube
+           |           |           |           |           |           |           |           |     92.3kiB  D21_delogC__EI0400_B1.cube
+           |           |           |           |           |           |           |           |     92.3kiB  D21_delogC__EI0500_B1.cube
+           |           |           |           |           |           |           |           |     87.0kiB  D21_delogC__EI0640_B1.cube
+           |           |           |           |           |           |           |           |     85.5kiB  D21_delogC__EI0800_B1.cube
+           |           |           |           |           |           |           |           |     82.5kiB  unitiy__.cube
+           |           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |    [1.1MiB]  delogF   (11 files, 2 dirs)
+           |           |           |           |           |           |    [1.1MiB]  unscaled   (11 files, 1 dirs)
+           |           |           |           |           |           |           |    [1.1MiB]  neutral   (11 files, 0 dirs)
+           |           |           |           |           |           |           |           |    102.8kiB  D21_delogF__EI0100_B1.cube
+           |           |           |           |           |           |           |           |    102.0kiB  D21_delogF__EI0125_B1.cube
+           |           |           |           |           |           |           |           |    102.0kiB  D21_delogF__EI0160_B1.cube
+           |           |           |           |           |           |           |           |    101.3kiB  D21_delogF__EI0200_B1.cube
+           |           |           |           |           |           |           |           |    101.3kiB  D21_delogF__EI0250_B1.cube
+           |           |           |           |           |           |           |           |    101.3kiB  D21_delogF__EI0320_B1.cube
+           |           |           |           |           |           |           |           |    102.0kiB  D21_delogF__EI0400_B1.cube
+           |           |           |           |           |           |           |           |    100.5kiB  D21_delogF__EI0500_B1.cube
+           |           |           |           |           |           |           |           |     97.5kiB  D21_delogF__EI0640_B1.cube
+           |           |           |           |           |           |           |           |     91.5kiB  D21_delogF__EI0800_B1.cube
+           |           |           |           |           |           |           |           |     82.5kiB  unitiy__.cube
+           |           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |           \----->
+           |           |           |           |           \----->
+           |           |           |    [1.4MiB]  lustre17steps   (22 files, 7 dirs)
+           |           |           |           |    [1.4MiB]  linGain   (22 files, 6 dirs)
+           |           |           |           |           |  [718.9kiB]  delogC   (11 files, 2 dirs)
+           |           |           |           |           |           |  [718.9kiB]  unscaled   (11 files, 1 dirs)
+           |           |           |           |           |           |           |  [718.9kiB]  neutral   (11 files, 0 dirs)
+           |           |           |           |           |           |           |           |     65.3kiB  D21_delogC__EI0100_B1.lut
+           |           |           |           |           |           |           |           |     64.4kiB  D21_delogC__EI0125_B1.lut
+           |           |           |           |           |           |           |           |     65.3kiB  D21_delogC__EI0160_B1.lut
+           |           |           |           |           |           |           |           |     64.4kiB  D21_delogC__EI0200_B1.lut
+           |           |           |           |           |           |           |           |     64.4kiB  D21_delogC__EI0250_B1.lut
+           |           |           |           |           |           |           |           |     65.3kiB  D21_delogC__EI0320_B1.lut
+           |           |           |           |           |           |           |           |     65.3kiB  D21_delogC__EI0400_B1.lut
+           |           |           |           |           |           |           |           |     65.3kiB  D21_delogC__EI0500_B1.lut
+           |           |           |           |           |           |           |           |     66.1kiB  D21_delogC__EI0640_B1.lut
+           |           |           |           |           |           |           |           |     66.1kiB  D21_delogC__EI0800_B1.lut
+           |           |           |           |           |           |           |           |     67.0kiB  unitiy__.lut
+           |           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |  [719.7kiB]  delogF   (11 files, 2 dirs)
+           |           |           |           |           |           |  [719.7kiB]  unscaled   (11 files, 1 dirs)
+           |           |           |           |           |           |           |  [719.7kiB]  neutral   (11 files, 0 dirs)
+           |           |           |           |           |           |           |           |     64.4kiB  D21_delogF__EI0100_B1.lut
+           |           |           |           |           |           |           |           |     64.4kiB  D21_delogF__EI0125_B1.lut
+           |           |           |           |           |           |           |           |     64.4kiB  D21_delogF__EI0160_B1.lut
+           |           |           |           |           |           |           |           |     65.3kiB  D21_delogF__EI0200_B1.lut
+           |           |           |           |           |           |           |           |     65.3kiB  D21_delogF__EI0250_B1.lut
+           |           |           |           |           |           |           |           |     65.3kiB  D21_delogF__EI0320_B1.lut
+           |           |           |           |           |           |           |           |     65.3kiB  D21_delogF__EI0400_B1.lut
+           |           |           |           |           |           |           |           |     66.1kiB  D21_delogF__EI0500_B1.lut
+           |           |           |           |           |           |           |           |     66.1kiB  D21_delogF__EI0640_B1.lut
+           |           |           |           |           |           |           |           |     66.1kiB  D21_delogF__EI0800_B1.lut
+           |           |           |           |           |           |           |           |     67.0kiB  unitiy__.lut
+           |           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |           \----->
+           |           |           |           |           \----->
+           |           |           |    [4.9MiB]  nucoda17steps   (22 files, 7 dirs)
+           |           |           |           |    [4.9MiB]  linGain   (22 files, 6 dirs)
+           |           |           |           |           |    [2.4MiB]  delogC   (11 files, 2 dirs)
+           |           |           |           |           |           |    [2.4MiB]  unscaled   (11 files, 1 dirs)
+           |           |           |           |           |           |           |    [2.4MiB]  neutral   (11 files, 0 dirs)
+           |           |           |           |           |           |           |           |    239.5kiB  D21_delogC__EI0100_B1.txt
+           |           |           |           |           |           |           |           |    235.2kiB  D21_delogC__EI0125_B1.txt
+           |           |           |           |           |           |           |           |    234.4kiB  D21_delogC__EI0160_B1.txt
+           |           |           |           |           |           |           |           |    229.3kiB  D21_delogC__EI0200_B1.txt
+           |           |           |           |           |           |           |           |    229.3kiB  D21_delogC__EI0250_B1.txt
+           |           |           |           |           |           |           |           |    227.6kiB  D21_delogC__EI0320_B1.txt
+           |           |           |           |           |           |           |           |    222.5kiB  D21_delogC__EI0400_B1.txt
+           |           |           |           |           |           |           |           |    222.5kiB  D21_delogC__EI0500_B1.txt
+           |           |           |           |           |           |           |           |    217.5kiB  D21_delogC__EI0640_B1.txt
+           |           |           |           |           |           |           |           |    215.8kiB  D21_delogC__EI0800_B1.txt
+           |           |           |           |           |           |           |           |    194.6kiB  unitiy__.txt
+           |           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |    [2.5MiB]  delogF   (11 files, 2 dirs)
+           |           |           |           |           |           |    [2.5MiB]  unscaled   (11 files, 1 dirs)
+           |           |           |           |           |           |           |    [2.5MiB]  neutral   (11 files, 0 dirs)
+           |           |           |           |           |           |           |           |    234.4kiB  D21_delogF__EI0100_B1.txt
+           |           |           |           |           |           |           |           |    233.6kiB  D21_delogF__EI0125_B1.txt
+           |           |           |           |           |           |           |           |    235.2kiB  D21_delogF__EI0160_B1.txt
+           |           |           |           |           |           |           |           |    232.7kiB  D21_delogF__EI0200_B1.txt
+           |           |           |           |           |           |           |           |    234.4kiB  D21_delogF__EI0250_B1.txt
+           |           |           |           |           |           |           |           |    234.4kiB  D21_delogF__EI0320_B1.txt
+           |           |           |           |           |           |           |           |    234.4kiB  D21_delogF__EI0400_B1.txt
+           |           |           |           |           |           |           |           |    232.7kiB  D21_delogF__EI0500_B1.txt
+           |           |           |           |           |           |           |           |    228.5kiB  D21_delogF__EI0640_B1.txt
+           |           |           |           |           |           |           |           |    222.5kiB  D21_delogF__EI0800_B1.txt
+           |           |           |           |           |           |           |           |    194.6kiB  unitiy__.txt
+           |           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |           \----->
+           |           |           |           |           \----->
+           |           |           |    [1.4MiB]  quantel17steps   (22 files, 7 dirs)
+           |           |           |           |    [1.4MiB]  linGain   (22 files, 6 dirs)
+           |           |           |           |           |  [718.3kiB]  delogC   (11 files, 2 dirs)
+           |           |           |           |           |           |  [718.3kiB]  unscaled   (11 files, 1 dirs)
+           |           |           |           |           |           |           |  [718.3kiB]  neutral   (11 files, 0 dirs)
+           |           |           |           |           |           |           |           |     65.2kiB  D21_delogC__EI0100_B1.txt
+           |           |           |           |           |           |           |           |     64.4kiB  D21_delogC__EI0125_B1.txt
+           |           |           |           |           |           |           |           |     65.2kiB  D21_delogC__EI0160_B1.txt
+           |           |           |           |           |           |           |           |     64.4kiB  D21_delogC__EI0200_B1.txt
+           |           |           |           |           |           |           |           |     64.4kiB  D21_delogC__EI0250_B1.txt
+           |           |           |           |           |           |           |           |     65.2kiB  D21_delogC__EI0320_B1.txt
+           |           |           |           |           |           |           |           |     65.2kiB  D21_delogC__EI0400_B1.txt
+           |           |           |           |           |           |           |           |     65.2kiB  D21_delogC__EI0500_B1.txt
+           |           |           |           |           |           |           |           |     66.1kiB  D21_delogC__EI0640_B1.txt
+           |           |           |           |           |           |           |           |     66.1kiB  D21_delogC__EI0800_B1.txt
+           |           |           |           |           |           |           |           |     66.9kiB  unitiy__.txt
+           |           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |  [719.1kiB]  delogF   (11 files, 2 dirs)
+           |           |           |           |           |           |  [719.1kiB]  unscaled   (11 files, 1 dirs)
+           |           |           |           |           |           |           |  [719.1kiB]  neutral   (11 files, 0 dirs)
+           |           |           |           |           |           |           |           |     64.4kiB  D21_delogF__EI0100_B1.txt
+           |           |           |           |           |           |           |           |     64.4kiB  D21_delogF__EI0125_B1.txt
+           |           |           |           |           |           |           |           |     64.4kiB  D21_delogF__EI0160_B1.txt
+           |           |           |           |           |           |           |           |     65.2kiB  D21_delogF__EI0200_B1.txt
+           |           |           |           |           |           |           |           |     65.2kiB  D21_delogF__EI0250_B1.txt
+           |           |           |           |           |           |           |           |     65.2kiB  D21_delogF__EI0320_B1.txt
+           |           |           |           |           |           |           |           |     65.2kiB  D21_delogF__EI0400_B1.txt
+           |           |           |           |           |           |           |           |     66.1kiB  D21_delogF__EI0500_B1.txt
+           |           |           |           |           |           |           |           |     66.1kiB  D21_delogF__EI0640_B1.txt
+           |           |           |           |           |           |           |           |     66.1kiB  D21_delogF__EI0800_B1.txt
+           |           |           |           |           |           |           |           |     66.9kiB  unitiy__.txt
+           |           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |           \----->
+           |           |           |           |           \----->
+           |           |           |    [2.6MiB]  scratch17steps   (22 files, 7 dirs)
+           |           |           |           |    [2.6MiB]  linGain   (22 files, 6 dirs)
+           |           |           |           |           |    [1.3MiB]  delogC   (11 files, 2 dirs)
+           |           |           |           |           |           |    [1.3MiB]  unscaled   (11 files, 1 dirs)
+           |           |           |           |           |           |           |    [1.3MiB]  neutral   (11 files, 0 dirs)
+           |           |           |           |           |           |           |           |    132.7kiB  D21_delogC__EI0100_B1.3dl
+           |           |           |           |           |           |           |           |    128.5kiB  D21_delogC__EI0125_B1.3dl
+           |           |           |           |           |           |           |           |    127.7kiB  D21_delogC__EI0160_B1.3dl
+           |           |           |           |           |           |           |           |    122.6kiB  D21_delogC__EI0200_B1.3dl
+           |           |           |           |           |           |           |           |    122.6kiB  D21_delogC__EI0250_B1.3dl
+           |           |           |           |           |           |           |           |    120.9kiB  D21_delogC__EI0320_B1.3dl
+           |           |           |           |           |           |           |           |    115.8kiB  D21_delogC__EI0400_B1.3dl
+           |           |           |           |           |           |           |           |    115.8kiB  D21_delogC__EI0500_B1.3dl
+           |           |           |           |           |           |           |           |    110.7kiB  D21_delogC__EI0640_B1.3dl
+           |           |           |           |           |           |           |           |    109.0kiB  D21_delogC__EI0800_B1.3dl
+           |           |           |           |           |           |           |           |     87.9kiB  unitiy__.3dl
+           |           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |    [1.3MiB]  delogF   (11 files, 2 dirs)
+           |           |           |           |           |           |    [1.3MiB]  unscaled   (11 files, 1 dirs)
+           |           |           |           |           |           |           |    [1.3MiB]  neutral   (11 files, 0 dirs)
+           |           |           |           |           |           |           |           |    127.7kiB  D21_delogF__EI0100_B1.3dl
+           |           |           |           |           |           |           |           |    126.8kiB  D21_delogF__EI0125_B1.3dl
+           |           |           |           |           |           |           |           |    128.5kiB  D21_delogF__EI0160_B1.3dl
+           |           |           |           |           |           |           |           |    126.0kiB  D21_delogF__EI0200_B1.3dl
+           |           |           |           |           |           |           |           |    127.7kiB  D21_delogF__EI0250_B1.3dl
+           |           |           |           |           |           |           |           |    127.7kiB  D21_delogF__EI0320_B1.3dl
+           |           |           |           |           |           |           |           |    127.7kiB  D21_delogF__EI0400_B1.3dl
+           |           |           |           |           |           |           |           |    126.0kiB  D21_delogF__EI0500_B1.3dl
+           |           |           |           |           |           |           |           |    121.7kiB  D21_delogF__EI0640_B1.3dl
+           |           |           |           |           |           |           |           |    115.8kiB  D21_delogF__EI0800_B1.3dl
+           |           |           |           |           |           |           |           |     87.9kiB  unitiy__.3dl
+           |           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           |           \----->
+           |           |           |           |           |           |           \----->
+           |           |           |           |           |           \----->
+           |           |           |           |           \----->
+           |           |           |      1.3MiB  LUTs_1p.pdf
+           |           |           |      1.3MiB  LUTs_2p.pdf
+           |           |           |      1.3MiB  LUTs_4p.pdf
+           |           |           |           \----->
+           |           |      8.9MiB  11step_ARRIRAW.ari
+           |           |      7.9MiB  11step_log.C_EI200_108308.dpx
+           |           |      7.9MiB  11step_log.F_EI400_108308.dpx
+           |           |      7.9MiB  11step_original_108308.dpx
+           |           |      8.9MiB  alexa_arriraw.ari
+           |           |           \----->
+           |      5.3MiB  ARRI__REEL002_SCENE_001_camA_TAKE_004_0100386.png
+           |      1.7MiB  ARRI__REEL002_SCENE_001_camA_TAKE_004_0100386__RGB10.png
+           | SEQ 47.5MiB  D21_1074_filter_T{%02}.cin   [16-22], miss=5
+           |      6.7MiB  disk3_T9.00001.ari
+           |     17.8MiB  disk3_T9.1.dpx
+           |           \----->
+  [16.36GiB]  Blackmagic Cinema Camera   (2717 files, 23 dirs)
+           |   [2.57GiB]  John Brawley-  Afterglow   (555 files, 5 dirs)
+           |           |  [671.4MiB]  Shot 1   (141 files, 0 dirs)
+           |           |           |SEQ 671.4MiB  Frame{%06}.dng   [320-460]
+           |           |           |           \----->
+           |           |  [519.0MiB]  Shot 2   (110 files, 0 dirs)
+           |           |           |      6.0kiB  .DS_Store
+           |           |           |SEQ 519.0MiB  Frame{%06}.dng   [450-558]
+           |           |           |           \----->
+           |           |  [328.6MiB]  Shot 3   (69 files, 0 dirs)
+           |           |           |SEQ 328.6MiB  Frame{%06}.dng   [338-406]
+           |           |           |           \----->
+           |           |  [623.8MiB]  Shot 4   (132 files, 0 dirs)
+           |           |           |      6.0kiB  .DS_Store
+           |           |           |SEQ 623.8MiB  Frame{%06}.dng   [470-600]
+           |           |           |           \----->
+           |           |  [480.9MiB]  Shot 5   (102 files, 0 dirs)
+           |           |           |      6.0kiB  .DS_Store
+           |           |           |SEQ 480.9MiB  Frame{%06}.dng   [1041-1141]
+           |           |           |           \----->
+           |           |      8.5MiB  Shot1, Resolve's YRGB w FPE-to-Rec709 LUT vs ACES (idt=CinemaDNG odt=Rec709).mp4
+           |           |           \----->
+           |  [13.79GiB]  test_nuovo   (2162 files, 16 dirs)
+           |           |    [1.8MiB]  mf_edl   (6 files, 2 dirs)
+           |           |           |    [1.8MiB]  20130705   (6 files, 1 dirs)
+           |           |           |           |    [948kiB]  prova_2   (2 files, 0 dirs)
+           |           |           |           |           |      372kiB  black magic 2 luglio.aaf
+           |           |           |           |           |      576kiB  scena 1 al 2 luglio.NoGroup.aaf
+           |           |           |           |           |           \----->
+           |           |           |           |      359kiB  black magic 2 luglio.aaf
+           |           |           |           |        691B  BLACK MAGIC 2 LUGLIO.edl
+           |           |           |           |       1104B  SCENA 1 AL 2 LUGLIO.edl
+           |           |           |           |    536.5kiB  scena 1 al 2 luglio.NoGroup.aaf
+           |           |           |           |           \----->
+           |           |           |           \----->
+           |           |   [1.94GiB]  mf_ooh_20130531   (3 files, 0 dirs)
+           |           |           |    702.6MiB  A167C004_130410_R1L6_montaggio.mxf
+           |           |           |    859.0MiB  A168C005_130410_R1L6_montaggio.mxf
+           |           |           |    420.5MiB  B114C003_130410_R2D1_montaggio.mxf
+           |           |           |           \----->
+           |           |   [50.8MiB]  mf_ref   (2 files, 1 dirs)
+           |           |           |   [50.8MiB]  20130705   (2 files, 0 dirs)
+           |           |           |           |     17.1MiB  black magic 2 luglio.mov
+           |           |           |           |     33.7MiB  scena 1 al 2 luglio.mov
+           |           |           |           |           \----->
+           |           |           |           \----->
+           |           |   [1.31GiB]  mf_rnd_20130704   (8 files, 4 dirs)
+           |           |           |  [201.9MiB]  Blackmagic Cinema Camera_1_2013-05-06_0808_C0002   (2 files, 0 dirs)
+           |           |           |           |SEQ 201.9MiB  Blackmagic Cinema Camera_1_2013-05-06_0808_C0002_{%06}.mxf   [703896-704399], miss=502
+           |           |           |           |           \----->
+           |           |           |  [691.5MiB]  Blackmagic Cinema Camera_1_2013-05-06_0813_C0004   (2 files, 0 dirs)
+           |           |           |           |SEQ 691.5MiB  Blackmagic Cinema Camera_1_2013-05-06_0813_C0004_{%06}.mxf   [709992-713029], miss=3036
+           |           |           |           |           \----->
+           |           |           |  [133.9MiB]  Blackmagic Cinema Camera_1_2013-05-06_0839_C0001   (2 files, 0 dirs)
+           |           |           |           |SEQ 133.9MiB  Blackmagic Cinema Camera_1_2013-05-06_0839_C0001_{%06}.mxf   [747600-747634], miss=33
+           |           |           |           |           \----->
+           |           |           |  [318.1MiB]  Blackmagic Cinema Camera_1_2013-05-06_1103_C0006   (1 files, 0 dirs)
+           |           |           |           |    318.1MiB  Blackmagic Cinema Camera_1_2013-05-06_1103_C0006_955416.mxf
+           |           |           |           |           \----->
+           |           |           |        4kiB  ._.DS_Store
+           |           |           |           \----->
+           |           |   [9.96GiB]  mf_scn   (2137 files, 4 dirs)
+           |           |           |   [9.96GiB]  20130704   (2136 files, 3 dirs)
+           |           |           |           |   [49.3MiB]  Blackmagic Cinema Camera_1_2013-05-06_0808_C0002   (9 files, 0 dirs)
+           |           |           |           |           |     11.2MiB  Blackmagic Cinema Camera_1_2013-05-06_0808_C0002.wav
+           |           |           |           |           | SEQ 38.1MiB  Blackmagic Cinema Camera_1_2013-05-06_0808_C0002_{%06}.dng   [0-981], miss=974
+           |           |           |           |           |           \----->
+           |           |           |           |   [7.39GiB]  Blackmagic Cinema Camera_1_2013-05-06_0813_C0004   (1583 files, 0 dirs)
+           |           |           |           |           |        4kiB  ._Blackmagic Cinema Camera_1_2013-05-06_0813_C0004.wav
+           |           |           |           |           |     41.4MiB  Blackmagic Cinema Camera_1_2013-05-06_0813_C0004.wav
+           |           |           |           |           | SEQ 7.35GiB  Blackmagic Cinema Camera_1_2013-05-06_0813_C0004_{%06}.dng   [0-3613], miss=2033
+           |           |           |           |           |           \----->
+           |           |           |           |   [2.52GiB]  Blackmagic Cinema Camera_1_2013-05-06_0839_C0001   (543 files, 0 dirs)
+           |           |           |           |           |        4kiB  ._Blackmagic Cinema Camera_1_2013-05-06_0839_C0001.wav
+           |           |           |           |           |      6.2MiB  Blackmagic Cinema Camera_1_2013-05-06_0839_C0001.wav
+           |           |           |           |           | SEQ 2.52GiB  Blackmagic Cinema Camera_1_2013-05-06_0839_C0001_{%06}.dng   [0-540]
+           |           |           |           |           |           \----->
+           |           |           |           |        4kiB  ._.DS_Store
+           |           |           |           |           \----->
+           |           |           |        4kiB  ._.DS_Store
+           |           |           |           \----->
+           |           |    411.5kiB  01.Relink.aaf
+           |           |     10.6MiB  Clip0008__test.mxf
+           |           |SEQ 530.8MiB  Clip{%04}.mxf   [57-59]
+           |           |    583.5kiB  dav.2.aaf
+           |           |           \----->
+           |           \----->
+   [2.45GiB]  C300_vs_SCARLET   (11 files, 8 dirs)
+           |  [328.1MiB]  C300   (7 files, 4 dirs)
+           |           |  [328.1MiB]  CONTENTS   (6 files, 3 dirs)
+           |           |           |  [328.1MiB]  CLIPS001   (6 files, 2 dirs)
+           |           |           |           |  [325.6MiB]  AA0281   (5 files, 0 dirs)
+           |           |           |           |           |      2.5kiB  AA0281.CIF
+           |           |           |           |           |        158B  AA0281.CPF
+           |           |           |           |           |        441B  AA0281.XML
+           |           |           |           |           |    323.9MiB  AA028101.MXF
+           |           |           |           |           |      1.8MiB  AA28101.SIF
+           |           |           |           |           |           \----->
+           |           |           |           |  [emptyDIR]  JOURNAL
+           |           |           |           |      2.5MiB  INDEX.MIF
+           |           |           |           |           \----->
+           |           |           |           \----->
+           |           |      6.0kiB  .DS_Store
+           |           |           \----->
+           |   [2.13GiB]  SCARLET   (4 files, 2 dirs)
+           |           |   [2.12GiB]  A001_0720NI.RDM   (1 files, 1 dirs)
+           |           |           |   [2.12GiB]  A001_C002_07200K.RDC   (1 files, 0 dirs)
+           |           |           |           |     2.12GiB  A001_C002_07200K_1.R3D
+           |           |           |           |           \----->
+           |           |           |           \----->
+           |           |      5.1MiB  102-7E6-B59_log.txt
+           |           |          8B  digital_magazine.bin
+           |           |         12B  digital_magdynamic.bin
+           |           |           \----->
+           |           \----->
+   [1.36GiB]  Canon_EOS_C300   (46 files, 16 dirs)
+           |  [526.0MiB]  CONTENTS   (25 files, 8 dirs)
+           |           |  [526.0MiB]  CLIPS001   (25 files, 7 dirs)
+           |           |           |   [81.8MiB]  AA0013   (4 files, 0 dirs)
+           |           |           |           |      2.5kiB  AA0013.CIF
+           |           |           |           |        455B  AA0013.XML
+           |           |           |           |     80.1MiB  AA001301.MXF
+           |           |           |           |      1.8MiB  AA1301.SIF
+           |           |           |           |           \----->
+           |           |           |   [28.5MiB]  AA0014   (4 files, 0 dirs)
+           |           |           |           |      2.5kiB  AA0014.CIF
+           |           |           |           |        455B  AA0014.XML
+           |           |           |           |     26.7MiB  AA001401.MXF
+           |           |           |           |      1.8MiB  AA1401.SIF
+           |           |           |           |           \----->
+           |           |           |  [111.5MiB]  AA0015   (4 files, 0 dirs)
+           |           |           |           |      2.5kiB  AA0015.CIF
+           |           |           |           |        455B  AA0015.XML
+           |           |           |           |    109.7MiB  AA001501.MXF
+           |           |           |           |      1.8MiB  AA1501.SIF
+           |           |           |           |           \----->
+           |           |           |   [37.3MiB]  AA0016   (4 files, 0 dirs)
+           |           |           |           |      2.5kiB  AA0016.CIF
+           |           |           |           |        455B  AA0016.XML
+           |           |           |           |     35.6MiB  AA001601.MXF
+           |           |           |           |      1.8MiB  AA1601.SIF
+           |           |           |           |           \----->
+           |           |           |  [241.9MiB]  AA0017   (4 files, 0 dirs)
+           |           |           |           |      2.5kiB  AA0017.CIF
+           |           |           |           |        455B  AA0017.XML
+           |           |           |           |    240.2MiB  AA001701.MXF
+           |           |           |           |      1.8MiB  AA1701.SIF
+           |           |           |           |           \----->
+           |           |           |   [22.5MiB]  AA0018   (4 files, 0 dirs)
+           |           |           |           |      2.5kiB  AA0018.CIF
+           |           |           |           |        455B  AA0018.XML
+           |           |           |           |     20.8MiB  AA001801.MXF
+           |           |           |           |      1.8MiB  AA1801.SIF
+           |           |           |           |           \----->
+           |           |           |  [emptyDIR]  JOURNAL
+           |           |           |      2.5MiB  INDEX.MIF
+           |           |           |           \----->
+           |           |           \----->
+           |  [864.6MiB]  DColor_comparison_Canon.C300   (21 files, 6 dirs)
+           |           |  [864.6MiB]  CONTENTS   (21 files, 5 dirs)
+           |           |           |  [864.6MiB]  CLIPS001   (19 files, 4 dirs)
+           |           |           |           |  [336.8MiB]  AA0001   (6 files, 0 dirs)
+           |           |           |           |           |      2.5kiB  AA0001.CIF
+           |           |           |           |           |        158B  AA0001.CPF
+           |           |           |           |           |      7.0kiB  AA0001.THM
+           |           |           |           |           |        438B  AA0001.XML
+           |           |           |           |           |    335.1MiB  AA000101.MXF
+           |           |           |           |           |      1.8MiB  AA101.SIF
+           |           |           |           |           |           \----->
+           |           |           |           |  [194.5MiB]  AA0008   (6 files, 0 dirs)
+           |           |           |           |           |      2.5kiB  AA0008.CIF
+           |           |           |           |           |        158B  AA0008.CPF
+           |           |           |           |           |     10.0kiB  AA0008.THM
+           |           |           |           |           |        438B  AA0008.XML
+           |           |           |           |           |    192.7MiB  AA000801.MXF
+           |           |           |           |           |      1.8MiB  AA801.SIF
+           |           |           |           |           |           \----->
+           |           |           |           |  [330.9MiB]  AA0014   (6 files, 0 dirs)
+           |           |           |           |           |      2.5kiB  AA0014.CIF
+           |           |           |           |           |        158B  AA0014.CPF
+           |           |           |           |           |      6.5kiB  AA0014.THM
+           |           |           |           |           |        438B  AA0014.XML
+           |           |           |           |           |    329.1MiB  AA001401.MXF
+           |           |           |           |           |      1.8MiB  AA1401.SIF
+           |           |           |           |           |           \----->
+           |           |           |           |  [emptyDIR]  JOURNAL
+           |           |           |           |      2.5MiB  INDEX.MIF
+           |           |           |           |           \----->
+           |           |           |        4kiB  ._.DS_Store
+           |           |           |      6.0kiB  .DS_Store
+           |           |           |           \----->
+           |           |           \----->
+           |           \----->
+  [353.6MiB]  Canon_EOS_DSLRs   (34 files, 3 dirs)
+           |  [154.7MiB]  CineStyle_EOS.7D_tests   (32 files, 2 dirs)
+           |           |    [8.9MiB]  H_parade.meters + original JPEGs   (10 files, 0 dirs)
+           |           |           |  SEQ 8.0MiB  H_MG_{%04}.JPG   [658-659]
+           |           |           |    137.2kiB  H_RGB.parade_lin.png
+           |           |           |    109.3kiB  H_RGB.parade_log.png
+           |           |           |     58.6kiB  H_Vectorscope_lin.png
+           |           |           |     54.5kiB  H_Vectorscope_log.png
+           |           |           |    257.1kiB  H_Waveform_lin.png
+           |           |           |    170.7kiB  H_Waveform_log.png
+           |           |           |    112.1kiB  H_YUV.parade_lin.png
+           |           |           |     90.1kiB  H_YUV.parade_log.png
+           |           |           |           \----->
+           |           |    [9.0MiB]  V_parade.meters + original JPEGs   (9 files, 0 dirs)
+           |           |           |  SEQ 8.2MiB  V_MG_{%04}.JPG   [658-659]
+           |           |           |    134.9kiB  V_RGB.parade_lin.png
+           |           |           |    104.6kiB  V_RGB.parade_log.png
+           |           |           |     57.1kiB  V_Vectorscope_lin.png
+           |           |           |    205.4kiB  V_Waveform_lin.png
+           |           |           |    146.7kiB  V_Waveform_log.png
+           |           |           |    107.7kiB  V_YUV.parade_lin.png
+           |           |           |     86.8kiB  V_YUV.parade_log.png
+           |           |           |           \----->
+           |           | SEQ 42.7MiB  _MG_{%04}.CR2   [658-659]
+           |           |     12.7MiB  from original.log_2_emul.2383._via_DVS.previz.lut.tif
+           |           |      8.4MiB  from original.log_2_emul.2383.lin_via_DVS.previz.lut.dpx
+           |           |      8.4MiB  from_original.lin_2_emul.2242.log_via_TDI.g80.lut.cin
+           |           |      8.4MiB  from_original.lin_2_emul.2242.log_via_TDI.g80.lut.dpx
+           |           |     12.7MiB  from_original.lin_2_emul.2242.log_via_TDI.g80.lut.tif
+           |           |    832.4kiB  JP2k_XYZ_lin.jp2
+           |           |    488.8kiB  JP2k_XYZ_log.jp2
+           |           |      8.4MiB  original_lin.dpx
+           |           |     12.7MiB  original_lin.tif
+           |           |      8.4MiB  original_log.dpx
+           |           |     12.7MiB  original_log.tif
+           |           |           \----->
+           |    147.1MiB  EOS.7D_video_test.m2v
+           |     51.8MiB  MVI_800.MOV
+           |           \----->
+           |  [360.1MiB]  provini_DPX   (40 files, 1 dirs)
+           |           |  [360.1MiB]  2048x1152   (40 files, 0 dirs)
+           |           |           | SEQ 18.0MiB  A001_C001_0713MU.{%07}.dpx   [0-273], miss=272
+           |           |           | SEQ 18.0MiB  A001_C002_0713RQ.{%07}.dpx   [0-247], miss=246
+           |           |           |      9.0MiB  A001_C003_07134T.0000000.dpx
+           |           |           | SEQ 18.0MiB  A001_C004_0713Y3.{%07}.dpx   [0-475], miss=474
+           |           |           | SEQ 18.0MiB  A001_C005_07130P.{%07}.dpx   [0-378], miss=377
+           |           |           | SEQ 18.0MiB  A001_C006_0713NG.{%07}.dpx   [0-226], miss=225
+           |           |           | SEQ 18.0MiB  A001_C007_0713S5.{%07}.dpx   [0-255], miss=254
+           |           |           | SEQ 18.0MiB  A001_C008_0713AQ.{%07}.dpx   [0-316], miss=315
+           |           |           | SEQ 18.0MiB  A001_C009_0713J4.{%07}.dpx   [0-105], miss=104
+           |           |           | SEQ 18.0MiB  A001_C010_071346.{%07}.dpx   [0-185], miss=184
+           |           |           | SEQ 18.0MiB  B001_C001_0713CI.{%07}.dpx   [0-253], miss=252
+           |           |           | SEQ 18.0MiB  B001_C002_0713YK.{%07}.dpx   [0-311], miss=310
+           |           |           | SEQ 18.0MiB  B001_C003_0713IV.{%07}.dpx   [0-349], miss=348
+           |           |           | SEQ 18.0MiB  B001_C004_071326.{%07}.dpx   [0-307], miss=306
+           |           |           | SEQ 18.0MiB  B001_C005_071309.{%07}.dpx   [0-359], miss=358
+           |           |           | SEQ 18.0MiB  B001_C006_0713SK.{%07}.dpx   [0-409], miss=408
+           |           |           | SEQ 27.0MiB  B001_C007_07135L.{%07}.dpx   [0-445], miss=443
+           |           |           | SEQ 18.0MiB  B001_C008_07136O.{%07}.dpx   [0-39], miss=38
+           |           |           | SEQ 18.0MiB  B001_C009_0713F8.{%07}.dpx   [0-177], miss=176
+           |           |           | SEQ 18.0MiB  B001_C010_0713ML.{%07}.dpx   [0-115], miss=114
+           |           |           |           \----->
+           |           |           \----->
+           |      1.0MiB  102-4C6-FAE_log.txt
+           |      1.0MiB  102-574-F3E_log.txt
+           |     2.46GiB  A001_C002_0605CF_001.R3D
+           |     3.08GiB  A001_C006_0214GJ_001.R3D
+           |          8B  digital_magazine.bin
+           |          4B  digital_magdynamic.bin
+           |           \----->
+  [965.3MiB]  RED_EPIC_300fps-2K   (21 files, 11 dirs)
+           |  [900.2MiB]  Trimmed R3Ds   (14 files, 7 dirs)
+           |           |  [211.4MiB]  A006_C001_0616H0.RDC   (2 files, 0 dirs)
+           |           |           |      6.6kiB  A006_C001_0616H0.RMD
+           |           |           |    211.4MiB  A006_C001_0616H0_1.R3D
+           |           |           |           \----->
+           |           |   [73.7MiB]  A006_C003_0616LX.RDC   (2 files, 0 dirs)
+           |           |           |      6.6kiB  A006_C003_0616LX.RMD
+           |           |           |     73.6MiB  A006_C003_0616LX_1.R3D
+           |           |           |           \----->
+           |           |  [161.8MiB]  A007_C002_0616EX.RDC   (2 files, 0 dirs)
+           |           |           |      6.6kiB  A007_C002_0616EX.RMD
+           |           |           |    161.8MiB  A007_C002_0616EX_1.R3D
+           |           |           |           \----->
+           |           |   [41.7MiB]  A007_C003_0616W5.RDC   (2 files, 0 dirs)
+           |           |           |      6.6kiB  A007_C003_0616W5.RMD
+           |           |           |     41.7MiB  A007_C003_0616W5_1.R3D
+           |           |           |           \----->
+           |           |   [63.7MiB]  A007_C009_06167Y.RDC   (2 files, 0 dirs)
+           |           |           |      6.6kiB  A007_C009_06167Y.RMD
+           |           |           |     63.7MiB  A007_C009_06167Y_1.R3D
+           |           |           |           \----->
+           |           |  [192.9MiB]  A007_C014_0616JK.RDC   (2 files, 0 dirs)
+           |           |           |      6.6kiB  A007_C014_0616JK.RMD
+           |           |           |    192.9MiB  A007_C014_0616JK_1.R3D
+           |           |           |           \----->
+           |           |  [155.0MiB]  A007_C020_0616OD.RDC   (2 files, 0 dirs)
+           |           |           |      6.6kiB  A007_C020_0616OD.RMD
+           |           |           |    155.0MiB  A007_C020_0616OD_1.R3D
+           |           |           |           \----->
+           |           |           \----->
+           |      3.9kiB  300fps tests.edl
+           |     37.5kiB  300fps tests.xml
+           |           \----->
+    254.4MiB  A001_C003_0603I3_001.R3D
+      7.9MiB  A001C007_110309_L263_0285.dpx
+    314.9MiB  A002_C005_0622RB_003.R3D
+      7.9MiB  A002C002_110309_L263_0118.dpx
+    970.7MiB  A007C008_110324_R1M5.mov
+     12.2MiB  ALEXA vs 35mm Tests.dpx
+           \----->
