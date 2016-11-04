@@ -15,7 +15,10 @@ Optionally, the same index can be sent via email to predetermined recipient(s). 
 The script is flexible to any organization's data-management and security policies. All its customization can be done by editing the (commented) values in the script's DATA dictionary (Python language), without affecting the original funcitonalities.
 Customizable items are, for example, default primary/secondary paths, email information (SMTP hostname, email recipients, etc.).
 
-Besides, the script only accesses standard POSIX metadata within the specified path; it does not require read access to files. For this reason it can be run from within a secure environment with restricted-access to sensible storage (e.g. metadata-only mounts of a SAN).
+Besides, the script only accesses standard POSIX metadata within the specified path; it does *not* require read access to files. For this reason it can be run from within secure environments with restricted access to sensible storage. These scanarios may include but not limited to:
+* metadata-only segregated mounts of a Storage Area Network (SAN),
+* LTO tapes written in LTFS (only requires read-access to the LTFS' index partition)
+* NFS (or SMB/CIFS) shares with poor sequential-packets' data-rates
 
 Running the script without arguments further exposes additional syntax.
 
