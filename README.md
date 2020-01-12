@@ -5,6 +5,7 @@ Such information include:
 * Identity of the username and host the tool was launched from (and time of the scan)
 * Graphical representation (with ASCII characters) of the sub-directory structure
 * Partial size of each subdirectory and of each file in it
+
 File sequences (e.g. `file001.ext`, `file002.ext`, ..., `file999.ext`) are acknowledged and reported as single items (1 line); their total size is only reported, plus placeholder for their numerical order. Missing file number(s) in a contiguous sequence are also reported.
 
 The file is generated, by default, in the current folder, and named `facility_`_`FACILITYNAME`_`.txt`, where _`FACILITYNAME`_ is the tape/disk/volume/faciluty number asked for input at the beginning.
